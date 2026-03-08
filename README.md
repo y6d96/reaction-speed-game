@@ -1,15 +1,15 @@
 # Reaction Speed Game
 
-A simple Python Tkinter game that measures how fast a player reacts when the screen changes color.
+## How This Version Works
 
-## How to Play
-1. Click the Start button
-2. Wait for the screen to turn green
-3. Click as fast as possible
-4. Your reaction time will be displayed in milliseconds
+1. Press **Start**
+2. The screen shows **Wait for green**
+3. After **2–5 seconds**, it turns **green**
+4. Click anywhere in the window
+5. Your **reaction time appears in milliseconds**
 
 ## Technologies
-Python
-Tkinter
-Git
-GitHub
+- Python
+- Tkinter
+- Git
+- GitHub
