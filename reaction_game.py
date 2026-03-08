@@ -26,6 +26,9 @@ def show_green():
     global start_time
     label.config(text="CLICK NOW!", bg="green")
     start_time = time.time()
+
+window.configure(bg="lightblue")
+
 # START BUTTON (add it here)
 start_button = tk.Button(window, text="Start")
 start_button.pack()
