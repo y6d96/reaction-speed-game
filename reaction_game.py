@@ -27,7 +27,7 @@ def show_green():
     label.config(text="CLICK NOW!", bg="green")
     start_time = time.time()
 
-window.configure(bg="lightblue")
+window.configure(bg="lightyellow")
 
 window.title("Reaction Speed Challenge")
 
