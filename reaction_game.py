@@ -35,6 +35,8 @@ window.title("Reaction Speed Challenge")
 start_button = tk.Button(window, text="Start", command=start_game)
 start_button.pack()
 
+label.config(font=("Arial", 22))
+
 # Detect mouse click
 window.bind("<Button-1>", click_screen)
 window.mainloop()
