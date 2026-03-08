@@ -29,6 +29,8 @@ def show_green():
 
 window.configure(bg="lightblue")
 
+window.title("Reaction Speed Challenge")
+
 # START BUTTON (add it here)
 start_button = tk.Button(window, text="Start")
 start_button.pack()
